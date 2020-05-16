@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+
+    "sourceMap": true,
+    "declarationMap": true,
+
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+
+    "strict": true,
+    "importHelpers": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
